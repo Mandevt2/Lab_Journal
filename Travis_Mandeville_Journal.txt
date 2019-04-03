@@ -3,5 +3,5 @@ General review of syllabus and class expectations.
 
 Worked briefly with DS9 in looking at an image of M31. Discussed "vignetting" and is source being the way the actual instrument was constructed. This is something that can be overcome and is not necessarily unavoidable. 
 
-Completed a review of Github. Learned how to use it more completely (i.e. having an account and not using it). Can now setup a remote repository on my computer and how to collaborate with files on other contributor's machines. Conflicts seem like something I'm going to be mortal enemies with. 
+Completed a review of Github. Learned how to use it more completely (i.e. having an account and not using it). Can now setup a remote repository on my computer and how to collaborate with files on other contributor's machines. Conflicts seem like something I'm going to be often at odds with. 
  
